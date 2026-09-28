@@ -3,7 +3,7 @@
 A single-page HTML project that showcases some of the best places to visit in the world. The goal is to practice handling images, captions, and embedded media with semantic, accessible markup. The page is intentionally **unstyled**; CSS is left for a later project.
 This project is focused on structure and accessibility rather than styling.
 
-Project based on the [Photo Showcase]([https://roadmap.sh/projects/blog-post-page](https://roadmap.sh/projects/photo-showcase)) challenge from [roadmap.sh](https://roadmap.sh).
+Project based on the [Photo Showcase](https://roadmap.sh/projects/blog-post-page](https://roadmap.sh/projects/photo-showcase)) challenge from [roadmap.sh](https://roadmap.sh).
 
 ## What this project covers
 
